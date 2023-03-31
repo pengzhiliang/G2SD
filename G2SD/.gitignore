@@ -1,0 +1,17 @@
+output/
+*.pth
+debug/
+*.sh
+*.jpeg
+finetune.sh
+__pycache__/*.pyc
+*.ipynb
+util/*.cpython-37.pyc
+util/*/*.pyc
+events*
+output_dir/*
+*.JPEG
+MINE*
+*.txt
+*.pt
+*.jpg

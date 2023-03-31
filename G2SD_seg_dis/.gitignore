@@ -1,0 +1,7 @@
+src/run.sh
+src/output
+src/data
+output/*
+*.pth
+debug.sh
+data/
