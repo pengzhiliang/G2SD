@@ -1,7 +1,7 @@
 output/
 *.pth
 debug/
-*.sh
+
 *.jpeg
 finetune.sh
 __pycache__/*.pyc
