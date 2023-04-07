@@ -10,6 +10,5 @@ Large vision Transformers (ViTs) driven by self-supervised pre-training mechanis
 
 ## TODO
 
-- [ ] Realease generic distillation code
-- [ ] Realease specific distillation code
+
 - [ ] Realease weights 
