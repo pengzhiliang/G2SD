@@ -7,6 +7,7 @@
 
 ```bash
 pip install mmcv-full==1.3.0 mmsegmentation==0.11.0
+pip3 install opencv-contrib-python -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install scipy timm==0.3.2
 ```
 
