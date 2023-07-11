@@ -8,7 +8,7 @@ Large vision Transformers (ViTs) driven by self-supervised pre-training mechanis
 
 ![](./fig/framework.png)
 
-## TODO
+## Model weights and logs
 
+You could download model weights and logs here: [Google drive](https://drive.google.com/drive/folders/1ogaHzTrqlirBMaZ-Ssa4gNG6zp1Hsn1g?usp=sharing).
 
-- [ ] Realease weights 
