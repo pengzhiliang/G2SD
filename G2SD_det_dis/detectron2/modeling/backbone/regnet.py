@@ -1,4 +1,4 @@
-  All Rights Reserved
+#  All Rights Reserved
 """
 Implementation of RegNet models from :paper:`dds` and :paper:`scaling`.
 
